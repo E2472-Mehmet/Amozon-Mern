@@ -1,1 +1,1 @@
-# Amozon-Mern
+# Amazon-Mern
